@@ -1,4 +1,4 @@
-3<h1 align="center">
+<h1 align="center">
   <br>
   <a href="https://github.com/Dou-Community-S-A"><img src="https://imgs.search.brave.com/zNGTLjv34ZVl1synjAYdqqrM0komb4M7-mHz_vRXZ-M/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9sb2dv/d2lrLmNvbS9jb250/ZW50L3VwbG9hZHMv/aW1hZ2VzL3J1c3Q4/MjQ0LmpwZw" alt="Dou-Community" width="200"></a>
   <br>
